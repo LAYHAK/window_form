@@ -1,0 +1,12 @@
+D:\C#\ENUM\ENUM\bin\Debug\ENUM.exe.config
+D:\C#\ENUM\ENUM\bin\Debug\ENUM.exe
+D:\C#\ENUM\ENUM\bin\Debug\ENUM.pdb
+D:\C#\ENUM\ENUM\obj\Debug\ENUM.csproj.AssemblyReference.cache
+D:\C#\ENUM\ENUM\obj\Debug\ENUM.csproj.SuggestedBindingRedirects.cache
+D:\C#\ENUM\ENUM\obj\Debug\ENUM.Form1.resources
+D:\C#\ENUM\ENUM\obj\Debug\ENUM.Properties.Resources.resources
+D:\C#\ENUM\ENUM\obj\Debug\ENUM.csproj.GenerateResource.cache
+D:\C#\ENUM\ENUM\obj\Debug\ENUM.csproj.CoreCompileInputs.cache
+D:\C#\ENUM\ENUM\obj\Debug\ENUM.exe
+D:\C#\ENUM\ENUM\obj\Debug\ENUM.pdb
+D:\C#\ENUM\ENUM\obj\Debug\ENUM.SumValue.resources

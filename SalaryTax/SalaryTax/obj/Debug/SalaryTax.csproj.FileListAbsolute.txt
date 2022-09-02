@@ -1,0 +1,11 @@
+D:\C#\SalaryTax\SalaryTax\bin\Debug\SalaryTax.exe.config
+D:\C#\SalaryTax\SalaryTax\bin\Debug\SalaryTax.exe
+D:\C#\SalaryTax\SalaryTax\bin\Debug\SalaryTax.pdb
+D:\C#\SalaryTax\SalaryTax\obj\Debug\SalaryTax.csproj.AssemblyReference.cache
+D:\C#\SalaryTax\SalaryTax\obj\Debug\SalaryTax.csproj.SuggestedBindingRedirects.cache
+D:\C#\SalaryTax\SalaryTax\obj\Debug\SalaryTax.Form1.resources
+D:\C#\SalaryTax\SalaryTax\obj\Debug\SalaryTax.Properties.Resources.resources
+D:\C#\SalaryTax\SalaryTax\obj\Debug\SalaryTax.csproj.GenerateResource.cache
+D:\C#\SalaryTax\SalaryTax\obj\Debug\SalaryTax.csproj.CoreCompileInputs.cache
+D:\C#\SalaryTax\SalaryTax\obj\Debug\SalaryTax.exe
+D:\C#\SalaryTax\SalaryTax\obj\Debug\SalaryTax.pdb
